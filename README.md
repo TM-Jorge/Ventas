@@ -1,0 +1,2 @@
+# Ventas
+Página de ventas
